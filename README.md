@@ -1,5 +1,3 @@
 arquivo exemplo de README.md
-[]: # Language: markdown
-[]: # Path: README.md
-curso git
+curso git B7Web
 alteraçao do Readme
