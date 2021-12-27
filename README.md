@@ -1,4 +1,3 @@
-arquivo exemplo de README.md
-curso git B7Web
-alteraçao do Readme
-teste
+# arquivo exemplo de README.md
+
+## Curso de Git b7Web
